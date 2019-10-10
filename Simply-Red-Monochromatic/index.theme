@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Simply Red Monochromatic
+Comment=Red Monochromatic Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Simply Red Monochromatic
+GtkTheme=Simply-Red-Monochromatic
+MetacityTheme=Simply-Monochromatic
+IconTheme=Simply Red Circles

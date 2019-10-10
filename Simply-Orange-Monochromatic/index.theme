@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Simply Orange Monochromatic
+Comment=Orange Monochromatic Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Simply Orange Monochromatic
+GtkTheme=Simply-Orange-Monochromatic
+MetacityTheme=Simply-Monochromatic
+IconTheme=Simply Orange Circles

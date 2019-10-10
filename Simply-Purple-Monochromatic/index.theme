@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Simply Purple Monochromatic
+Comment=Purple Monochromatic Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Simply Purple Monochromatic
+GtkTheme=Simply-Purple-Monochromatic
+MetacityTheme=Simply-Monochromatic
+IconTheme=Simply Purple Circles
