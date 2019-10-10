@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=E5150 Red
+Comment=An evil Gtk theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=E5150 Red
+GtkTheme=E5150-Red
+MetacityTheme=E5150
+IconTheme=Simply Red Circles

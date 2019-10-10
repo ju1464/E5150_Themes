@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=E5150 Green
+Comment=An evil Gtk theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=E5150 Green
+GtkTheme=E5150-Green
+MetacityTheme=E5150
+IconTheme=Simply Green Circles

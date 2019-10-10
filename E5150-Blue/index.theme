@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=E5150 Blue
+Comment=An evil Gtk theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=E5150 Blue
+GtkTheme=E5150-Blue
+MetacityTheme=E5150
+IconTheme=Simply Blue Circles
