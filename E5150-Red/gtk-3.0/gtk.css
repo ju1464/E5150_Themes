@@ -50,6 +50,10 @@ notebook:focus tab,
   color: #fcf6f6;
 }
 
+.csd.background {
+  background-color: rgba(52, 14, 14, 0.95);
+}
+
 /*
    These wildcard seems unavoidable, need to investigate.
    Wildcards are bad and troublesome, use them with care,
@@ -1468,8 +1472,8 @@ headerbar .entry-tag, headerbar .documents-entry-tag, headerbar .photos-entry-ta
 }
 
 .background .titlebar {
-  border-top-left-radius: 0px;
-  border-top-right-radius: 0px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
 }
 
 .background.tiled .titlebar,
@@ -2350,7 +2354,7 @@ switch {
 }
 
 switch:checked {
-  background-color: rgba(22, 6, 6, 0.5);
+  background-color: rgba(160, 44, 44, 0.5);
 }
 
 switch:disabled {
@@ -2380,8 +2384,8 @@ switch:focus:hover slider {
 }
 
 switch:checked slider {
-  background-color: #160606;
-  color: #160606;
+  background-color: #a02c2c;
+  color: #a02c2c;
 }
 
 /*************************
@@ -3316,11 +3320,6 @@ placessidebar > viewport.frame {
   border-style: none;
 }
 
-placessidebar.sidebar {
-  background-color: transparent;
-  background-image: linear-gradient(to right, #250a0a 31px, #340e0e 26px, #340e0e 99%, #340e0e 100%);
-}
-
 placessidebar list {
   padding: 1px 0 4px;
 }
@@ -3625,7 +3624,7 @@ colorchooser .popover.osd:backdrop {
  **********************/
 decoration {
   transition: box-shadow 100ms cubic-bezier(0, 0, 0.2, 1);
-  border-radius: 0px 0px 0 0;
+  border-radius: 8px 8px 0 0;
   box-shadow: 0 14px 14px rgba(0, 0, 0, 0.25), 0 10px 5px rgba(0, 0, 0, 0.22), 0 16px 16px transparent;
   margin: 8px;
 }
@@ -3999,6 +3998,15 @@ button.emoji-section:last-child {
 .nautilus-window notebook,
 .nautilus-window notebook > stack {
   background-color: #441313;
+}
+
+.nautilus-window.csd.background {
+  background-color: transparent;
+}
+
+.nautilus-window placessidebar.sidebar {
+  background-color: transparent;
+  background-image: linear-gradient(to right, rgba(37, 10, 10, 0.8) 31px, rgba(52, 14, 14, 0.9) 26px, rgba(52, 14, 14, 0.9) 99%, rgba(52, 14, 14, 0.9) 100%);
 }
 
 .nautilus-canvas-item.dim-label, label.nautilus-canvas-item.separator, .titlebar:not(headerbar) .nautilus-canvas-item.subtitle,
