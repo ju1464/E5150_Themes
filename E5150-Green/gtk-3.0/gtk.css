@@ -2460,7 +2460,7 @@ radio:focus:hover {
 check:checked, check:indeterminate,
 radio:checked,
 radio:indeterminate {
-  color: #061606;
+  color: #2ca02c;
 }
 
 check:checked:disabled, check:indeterminate:disabled,
@@ -2556,12 +2556,12 @@ radio:indeterminate {
 
 
 radio {
-  border-image-source: -gtk-gradient(radial, center center, 0, center center, 0.001, to(#061606), to(transparent));
+  border-image-source: -gtk-gradient(radial, center center, 0, center center, 0.001, to(#2ca02c), to(transparent));
 }
 
 
 radio:checked:not(:indeterminate) {
-  border-image-source: -gtk-gradient(radial, center center, 0, center center, 0.125, to(#061606), to(transparent));
+  border-image-source: -gtk-gradient(radial, center center, 0, center center, 0.125, to(#2ca02c), to(transparent));
 }
 
 
@@ -2637,7 +2637,7 @@ treeview.view radio:disabled {
 treeview.view check:checked, treeview.view check:indeterminate,
 treeview.view radio:checked,
 treeview.view radio:indeterminate {
-  color: #061606;
+  color: #2ca02c;
 }
 
 treeview.view check:checked:disabled, treeview.view check:indeterminate:disabled,
@@ -2701,7 +2701,7 @@ scale trough:disabled {
 
 scale highlight {
   transition: background-color 100ms cubic-bezier(0, 0, 0.2, 1);
-  background-color: #061606;
+  background-color: #2ca02c;
 }
 
 scale highlight:disabled {
@@ -2735,23 +2735,23 @@ scale slider:disabled {
 }
 
 scale slider:hover {
-  background-color: rgba(6, 22, 6, 0.08);
+  background-color: rgba(44, 160, 44, 0.08);
 }
 
 scale slider:focus {
-  background-color: rgba(6, 22, 6, 0.12);
+  background-color: rgba(44, 160, 44, 0.12);
 }
 
 scale slider:focus:hover {
-  background-color: rgba(6, 22, 6, 0.16);
+  background-color: rgba(44, 160, 44, 0.16);
 }
 
 scale slider:active {
   transition: background-color 100ms cubic-bezier(0, 0, 0.2, 1), background-size 0, background-image 0;
   animation: scale_ripple_effect 225ms cubic-bezier(0, 0, 0.2, 1) forwards;
   background-size: auto, 0% 0%;
-  background-color: rgba(6, 22, 6, 0.08);
-  color: rgba(6, 22, 6, 0.12);
+  background-color: rgba(44, 160, 44, 0.08);
+  color: rgba(44, 160, 44, 0.12);
 }
 
 scale marks label,
@@ -2900,7 +2900,7 @@ progressbar trough {
 }
 
 progressbar progress {
-  background-color: #061606;
+  background-color: #2ca02c;
 }
 
 progressbar trough.empty progress {
