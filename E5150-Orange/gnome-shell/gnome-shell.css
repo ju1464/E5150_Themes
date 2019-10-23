@@ -1978,7 +1978,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .app-view-control:hover {
   color: white;
-  background-color: rgba(255, 255, 255, 0.08) !important;
+  background-color: rgba(246, 251, 252, 0.04);
 }
 
 .app-view-control:active {
@@ -1988,25 +1988,25 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .app-view-control:checked {
   color: white;
-  background-color: rgba(0, 0, 0, 0.01) !important;
-  box-shadow: inset 0 2px 0 white;
+  background-color: rgba(42, 17, 0, 0.9);
+  box-shadow: none;
 }
 
 .app-view-control:first-child {
   border-right-width: 0;
-  border-radius: 6px;
+  border-radius: 20px;
 }
 
 .app-view-control:first-child:checked {
-  border-radius: 0;
+  border-radius: 20px;
 }
 
 .app-view-control:last-child {
-  border-radius: 6px;
+  border-radius: 20px;
 }
 
 .app-view-control:last-child:checked {
-  border-radius: 0;
+  border-radius: 20px;
 }
 
 .search-provider-icon:focus, .search-provider-icon:selected, .search-provider-icon:hover,
@@ -2058,7 +2058,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .app-well-app-running-dot {
   width: 32px;
   height: 2px;
-  background-color: white;
+  background-color: #ff7f2a;
   margin-bottom: 0;
 }
 
@@ -2116,29 +2116,28 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   width: 12px;
   height: 12px;
   border-radius: 12px;
+  border-color: white;
   background-image: none;
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: transparent;
   transition-duration: 100ms;
 }
 
 .page-indicator:hover .page-indicator-icon {
   background-image: none;
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: transparent;
+  border-color: #ff7f2a;
 }
 
 .page-indicator:active .page-indicator-icon {
   background-image: none;
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: #ff7f2a;
 }
 
 .page-indicator:checked .page-indicator-icon {
   background-image: none;
-  background-color: white;
+  background-color: #ff7f2a;
+  border-color: #ff7f2a;
   transition-duration: 0ms;
-}
-
-.page-indicator:checked:active {
-  background-image: none;
 }
 
 .app-well-app > .overview-icon.overview-icon-with-label,
