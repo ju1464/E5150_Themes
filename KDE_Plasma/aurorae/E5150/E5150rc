@@ -12,9 +12,9 @@ TextShadowOffsetY=2
 HaloActive=true
 
 [Layout]
-BorderLeft=0
-BorderRight=0
-BorderBottom=0
+BorderLeft=3
+BorderRight=3
+BorderBottom=3
 TitleHeight=24
 ButtonWidth=19
 ButtonHeight=19

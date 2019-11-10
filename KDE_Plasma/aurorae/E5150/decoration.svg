@@ -238,7 +238,7 @@
          id="rect4775"
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.13543296;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
       <rect
-         class="ColorScheme-Highlight"
+         class="ColorScheme-Background"
          style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.13543296;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
          id="rect4769"
          width="5"
@@ -264,7 +264,7 @@
          width="5"
          id="rect4820"
          style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.13543296;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         class="ColorScheme-Highlight" />
+         class="ColorScheme-Background" />
     </g>
     <g
        id="decoration-bottom">
@@ -284,7 +284,7 @@
          width="5"
          id="rect4842"
          style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.13543296;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         class="ColorScheme-Highlight" />
+         class="ColorScheme-Background" />
     </g>
     <g
        id="decoration-bottomright">
@@ -297,7 +297,7 @@
          y="934.86279" />
       <path
          inkscape:connector-curvature="0"
-         class="ColorScheme-Highlight"
+         class="ColorScheme-Background"
          id="rect8778"
          d="m 179.04807,934.86279 v 18.99998 h -19 v 5 h 24 v -23.99998 z"
          style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.13543296;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
@@ -313,7 +313,7 @@
          y="934.86279" />
       <path
          inkscape:connector-curvature="0"
-         class="ColorScheme-Highlight"
+         class="ColorScheme-Background"
          id="path8950"
          d="m 40.048064,934.86279 v 23.99997 h 24 v -5 h -19 v -18.99997 z"
          style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.13543296;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
