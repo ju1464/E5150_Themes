@@ -63,6 +63,11 @@
       }
       .ColorScheme-Background {
         color:#eff0f1;
+      
+      }  
+      .ColorScheme-Highlight {
+        color:#3daee9;
+        
       }
       .ColorScheme-ButtonFocus {
         color:#3daee9;

@@ -8,17 +8,30 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="913.11346"
-   height="620.82825"
-   viewBox="0 0 241.5946 164.26081"
+   width="200"
+   height="200"
+   viewBox="0 0 52.916666 52.916668"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="clock.svg">
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient895">
+      <stop
+         id="stop893"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0" />
+      <stop
+         id="stop891"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.19607843" />
+    </linearGradient>
     <style
        id="current-color-scheme"
        type="text/css">
@@ -189,6 +202,17 @@
          offset="0"
          id="stop5031" />
     </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient895"
+       id="radialGradient899"
+       cx="-272.12924"
+       cy="313.85904"
+       fx="-272.12924"
+       fy="313.85904"
+       r="25.880909"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-8.973077e-4,2.0870691,-2.1399047,-9.1990979e-4,400.16149,867.04997)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -197,9 +221,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.77317883"
-     inkscape:cx="456.55673"
-     inkscape:cy="310.41412"
+     inkscape:zoom="1.25"
+     inkscape:cx="-147.23246"
+     inkscape:cy="94.41589"
      inkscape:document-units="px"
      inkscape:current-layer="g4510"
      showgrid="false"
@@ -219,7 +243,18 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:measure-start="0,0"
-     inkscape:measure-end="0,0" />
+     inkscape:measure-end="0,0">
+    <sodipodi:guide
+       position="-41.698333,49.106668"
+       orientation="1,0"
+       id="guide891"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-62.864999,26.035001"
+       orientation="0,1"
+       id="guide893"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -236,11 +271,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="g4510"
-     transform="translate(229.46573,-160.46015)">
+     transform="translate(229.46573,-271.80429)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot1011"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:ChunkFive;font-style:normal;font-weight:normal;font-size:26.66666667px;line-height:25px;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:ChunkFive;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:25px;font-family:ChunkFive;-inkscape-font-specification:ChunkFive;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion1013"><rect
            id="rect1015"
            width="34.396698"
@@ -268,15 +303,16 @@
        id="text970"
        transform="translate(-91.421971,-44.51105)" />
     <rect
-       style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#f780e7;stroke-width:1.28957915;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#f780e7;stroke-width:0.51357478;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="hint-square-clock"
-       width="23.720295"
-       height="23.226122"
-       x="-53.736797"
-       y="177.10123" />
+       width="9.4465599"
+       height="9.249754"
+       x="-159.06837"
+       y="279.08096" />
     <g
        id="ClockFace"
-       inkscape:label="#g950">
+       inkscape:label="#g950"
+       transform="matrix(0.39824811,0,0,0.39824811,-137.66771,208.55014)">
       <circle
          r="63.73"
          cy="225.62917"
@@ -398,7 +434,7 @@
     </g>
     <g
        id="SecondHand"
-       transform="translate(-14.391543,1.5397455)">
+       transform="matrix(0.39824811,0,0,0.39824811,-143.3989,209.16379)">
       <rect
          y="249.14435"
          x="-0.43669027"
@@ -424,7 +460,7 @@
     </g>
     <g
        id="HandCenterScrew"
-       transform="translate(37.229957,19.573816)">
+       transform="matrix(0.39824811,0,0,0.39824811,-122.84079,216.34555)">
       <rect
          ry="0"
          rx="0"
@@ -443,7 +479,8 @@
     </g>
     <g
        id="HourHand"
-       inkscape:label="#g901">
+       inkscape:label="#g901"
+       transform="matrix(0.39824811,0,0,0.39824811,-137.66771,208.55014)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.10023165;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
          id="rect1845"
@@ -460,11 +497,12 @@
          width="4.5993023"
          id="hh2"
          class="ColorScheme-Text"
-         style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.52916667;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5291667;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        id="MinuteHand"
-       inkscape:label="#g895">
+       inkscape:label="#g895"
+       transform="matrix(0.39824811,0,0,0.39824811,-137.66771,208.55014)">
       <rect
          y="247.10291"
          x="-51.564739"
@@ -482,7 +520,18 @@
          width="3.9254923"
          id="hh1"
          class="ColorScheme-Text"
-         style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.52916667;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5291667;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g899">
+      <circle
+         inkscape:label=""
+         r="25.38035"
+         cy="298.47427"
+         cx="-271.37573"
+         id="Glass"
+         class="ColorScheme-ViewBackground"
+         style="opacity:1;fill:url(#radialGradient899);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00111866;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.47058824;paint-order:normal" />
     </g>
   </g>
 </svg>
