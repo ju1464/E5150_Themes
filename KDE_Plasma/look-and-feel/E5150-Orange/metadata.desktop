@@ -10,3 +10,4 @@ X-KDE-PluginInfo-Name=E5150-Orange
 X-KDE-PluginInfo-Version=0.1
 X-KDE-PluginInfo-Website=https://www.pling.com/u/ju1464/
 X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://aurorae.knsrc/api.kde-look.org/1335662,kns://colorschemes.knsrc/api.kde-look.org/1335658,kns://plasma-themes.knsrc/api.kde-look.org/1335788,kns://icons.knsrc/api.kde-look.org/1277095,kns://wallpaper.knsrc/api.kde-look.org/1330544
