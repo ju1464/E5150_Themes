@@ -477,7 +477,6 @@ treeview entry.flat, treeview entry.flat:focus, treeview entry, treeview entry:f
   }
 }
 
-
 button {
   min-height: 24px;
   min-width: 16px;
@@ -494,12 +493,10 @@ button {
   color: #fdf9fd;
 }
 
-
-button:hover {
-  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.16), 0 3px 3px rgba(0, 0, 0, 0.23), inset 0 0 0 9999px transparent;
+button:hover, button:focus {
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.16), 0 3px 3px rgba(0, 0, 0, 0.23), inset 0 0 0 9999px #411941;
   color: #fdf9fd;
 }
-
 
 button:active {
   transition: all 100ms cubic-bezier(0, 0, 0.2, 1), background-size 0, background-image 0;
@@ -510,19 +507,16 @@ button:active {
   color: #fdf9fd;
 }
 
-
 button:disabled {
   box-shadow: none;
   background-color: rgba(253, 249, 253, 0.04);
   color: rgba(253, 249, 253, 0.5);
 }
 
-
 button:checked {
   background-color: #160816;
   color: white;
 }
-
 
 button:checked:disabled {
   background-color: rgba(253, 249, 253, 0.12);
@@ -1261,8 +1255,7 @@ headerbar button:not(.suggested-action):not(.destructive-action):disabled {
 
 .titlebar:not(headerbar) button:not(.suggested-action):not(.destructive-action):checked,
 headerbar button:not(.suggested-action):not(.destructive-action):checked {
-  border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), currentColor 100%, transparent 0%) 0 0 2/0 0 2px;
-  color: #fdf9fd;
+  color: #963996;
 }
 
 .titlebar:not(headerbar) button:not(.suggested-action):not(.destructive-action):checked:disabled,
@@ -1294,7 +1287,7 @@ headerbar button:not(.suggested-action):not(.destructive-action):backdrop:disabl
 
 .titlebar:not(headerbar) button:not(.suggested-action):not(.destructive-action):backdrop:checked,
 headerbar button:not(.suggested-action):not(.destructive-action):backdrop:checked {
-  color: rgba(253, 249, 253, 0.7);
+  color: #4f1e4f;
 }
 
 .titlebar:not(headerbar) button:not(.suggested-action):not(.destructive-action):backdrop:checked:disabled,
