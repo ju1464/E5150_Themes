@@ -1,11 +1,13 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=E5150 Orange
+Name=E5150-Orange
 Comment=An evil Gtk theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-Name=E5150 Orange
+Name=E5150-Orange
 GtkTheme=E5150-Orange
-MetacityTheme=E5150
-IconTheme=Simply Orange Circles
+MetacityTheme=E5150-Orange
+IconTheme=Simply-Orange-Circles
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close

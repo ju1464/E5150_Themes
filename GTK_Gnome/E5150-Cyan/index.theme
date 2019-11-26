@@ -1,11 +1,13 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=E5150 Cyan
+Name=E5150-Cyan
 Comment=An evil Gtk theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-Name=E5150 Cyan
+Name=E5150-Cyan
 GtkTheme=E5150-Cyan
-MetacityTheme=E5150
-IconTheme=Simply Cyan Circles
+MetacityTheme=E5150-Cyan
+IconTheme=Simply-Cyan-Circles
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close

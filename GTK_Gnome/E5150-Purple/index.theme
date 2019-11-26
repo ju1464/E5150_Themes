@@ -1,11 +1,13 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=E5150 Purple
+Name=E5150-Purple
 Comment=An evil Gtk theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-Name=E5150 Purple
+Name=E5150-Purple
 GtkTheme=E5150-Purple
-MetacityTheme=E5150
-IconTheme=Simply Purple Circles
+MetacityTheme=E5150-Purple
+IconTheme=Simply-Purple-Circles
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
