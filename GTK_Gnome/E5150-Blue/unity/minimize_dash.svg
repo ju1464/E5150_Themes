@@ -43,7 +43,7 @@
      id="namedview8"
      showgrid="false"
      inkscape:zoom="9.8333333"
-     inkscape:cx="1.0677966"
+     inkscape:cx="12"
      inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="25"
@@ -52,12 +52,12 @@
   <circle
      cx="12"
      cy="12"
-     r="10"
+     r="9"
      id="circle2"
-     style="opacity:0.01000001;fill:#ffffff" />
+     style="opacity:0.01000001;fill:#ffffff;stroke-width:0.89999998" />
   <path
-     d="m 6,13.4 h 12 v 1.2 H 6 Z"
+     d="m 6.6,13.26 h 10.8 v 1.08 H 6.6 Z"
      id="path4"
      inkscape:connector-curvature="0"
-     style="fill:#f2f2f2" />
+     style="fill:#f2f2f2;stroke-width:0.89999998" />
 </svg>

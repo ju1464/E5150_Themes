@@ -43,7 +43,7 @@
      id="namedview8"
      showgrid="false"
      inkscape:zoom="9.8333333"
-     inkscape:cx="1.0677966"
+     inkscape:cx="12"
      inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="25"
@@ -52,12 +52,12 @@
   <circle
      cx="12"
      cy="12"
-     r="10"
+     r="9"
      id="circle2"
-     style="opacity:0.1;fill:#ffffff" />
+     style="opacity:0.1;fill:#ffffff;stroke-width:0.89999998" />
   <path
-     d="m 7.28,7.28 v 9.44 h 9.44 V 7.28 Z m 1.18,1.18 h 7.08 v 7.08 H 8.46 Z"
-     style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff"
+     d="m 7.752,7.752 v 8.496 h 8.496 V 7.752 Z m 1.062,1.062 h 6.372 v 6.372 H 8.814 Z"
+     style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;stroke-width:0.89999998"
      font-weight="400"
      overflow="visible"
      id="path4"
