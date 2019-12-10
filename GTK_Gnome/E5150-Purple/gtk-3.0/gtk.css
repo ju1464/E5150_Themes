@@ -5198,7 +5198,7 @@ UnityDecoration .menuitem:hover {
 
 UnityPanelWidget,
 .unity-panel {
-  background-color: #000000;
+  background-color: #160816;
   color: #fdf9fd;
 }
 
@@ -5214,8 +5214,7 @@ UnityPanelWidget:backdrop,
 
 .unity-panel.menubar.menuitem:hover,
 .unity-panel.menubar .menuitem *:hover {
-  box-shadow: inset 0 -2px currentColor;
-  background-color: transparent;
+  background-color: #411941;
   color: #fdf9fd;
 }
 
