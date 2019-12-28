@@ -22,7 +22,7 @@
 * {
   background-clip: padding-box;
   -GtkToolButton-icon-spacing: 0;
-  -GtkTextView-error-underline-color: #d42434;
+  -GtkTextView-error-underline-color: #003d65;
   -GtkScrolledWindow-scrollbar-spacing: 0;
   -GtkToolItemGroup-expander-size: 11;
   -GtkWidget-text-handle-width: 24;
@@ -291,16 +291,16 @@ entry undershoot.right {
 spinbutton.error:not(.vertical),
 entry.error {
   transition: all 100ms cubic-bezier(0, 0, 0.2, 1), border-image 225ms cubic-bezier(0, 0, 0.2, 1);
-  border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), #d42434 0%, transparent 0%) 0 0 0/0 0 0px;
-  box-shadow: inset 0 -1px #d42434;
+  border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), #003d65 0%, transparent 0%) 0 0 0/0 0 0px;
+  box-shadow: inset 0 -1px #003d65;
   background-color: rgba(255, 245, 238, 0.04);
   color: #fff5ee;
 }
 
 spinbutton.error:focus:not(.vertical),
 entry.error:focus {
-  border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), #d42434 100%, transparent 0%) 0 0 2/0 0 2px;
-  box-shadow: inset 0 -1px #d42434;
+  border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), #003d65 100%, transparent 0%) 0 0 2/0 0 2px;
+  box-shadow: inset 0 -1px #003d65;
 }
 
 spinbutton.error:disabled:not(.vertical),
@@ -313,16 +313,16 @@ entry.error:disabled {
 spinbutton.warning:not(.vertical),
 entry.warning {
   transition: all 100ms cubic-bezier(0, 0, 0.2, 1), border-image 225ms cubic-bezier(0, 0, 0.2, 1);
-  border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), #f3ce84 0%, transparent 0%) 0 0 0/0 0 0px;
-  box-shadow: inset 0 -1px #f3ce84;
+  border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), #00655b 0%, transparent 0%) 0 0 0/0 0 0px;
+  box-shadow: inset 0 -1px #00655b;
   background-color: rgba(255, 245, 238, 0.04);
   color: #fff5ee;
 }
 
 spinbutton.warning:focus:not(.vertical),
 entry.warning:focus {
-  border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), #f3ce84 100%, transparent 0%) 0 0 2/0 0 2px;
-  box-shadow: inset 0 -1px #f3ce84;
+  border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), #00655b 100%, transparent 0%) 0 0 2/0 0 2px;
+  box-shadow: inset 0 -1px #00655b;
 }
 
 spinbutton.warning:disabled:not(.vertical),
@@ -363,7 +363,7 @@ spinbutton.vertical entry.error, .gedit-search-slider .linked:not(.vertical) > e
   transition: all 100ms cubic-bezier(0, 0, 0.2, 1);
   border-image: none;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
-  background-color: #d42434;
+  background-color: #003d65;
   color: white;
 }
 
@@ -394,7 +394,7 @@ spinbutton.vertical entry.warning, .gedit-search-slider .linked:not(.vertical) >
   transition: all 100ms cubic-bezier(0, 0, 0.2, 1);
   border-image: none;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
-  background-color: #f3ce84;
+  background-color: #00655b;
   color: white;
 }
 
@@ -727,7 +727,7 @@ button.suggested-action.flat:checked {
 
 
 button.destructive-action {
-  background-color: #d42434;
+  background-color: #003d65;
   color: white;
 }
 
@@ -746,7 +746,7 @@ button.destructive-action:checked {
 
 button.destructive-action.flat {
   background-color: transparent;
-  color: #d42434;
+  color: #003d65;
 }
 
 
@@ -758,7 +758,7 @@ button.destructive-action.flat:disabled {
 
 
 button.destructive-action.flat:checked {
-  background-color: rgba(212, 36, 52, 0.3);
+  background-color: rgba(0, 61, 101, 0.3);
 }
 
 .stack-switcher >
@@ -2928,7 +2928,7 @@ levelbar.vertical.discrete block:not(:last-child) {
 }
 
 levelbar block.low {
-  background-color: #f3ce84;
+  background-color: #00655b;
 }
 
 levelbar block.high, levelbar block:not(.empty) {
@@ -2936,7 +2936,7 @@ levelbar block.high, levelbar block:not(.empty) {
 }
 
 levelbar block.full {
-  background-color: #4b5617;
+  background-color: #65000b;
 }
 
 levelbar block.empty {
@@ -3246,7 +3246,7 @@ messagedialog.csd .dialog-action-area button.suggested-action:not(:disabled) {
 }
 
 messagedialog.csd .dialog-action-area button.destructive-action:not(:disabled) {
-  color: #d42434;
+  color: #003d65;
 }
 
 filechooser .dialog-action-box {
@@ -3460,11 +3460,11 @@ infobar.question {
 }
 
 infobar.warning {
-  background-color: #f3ce84;
+  background-color: #00655b;
 }
 
 infobar.error {
-  background-color: #d42434;
+  background-color: #003d65;
 }
 
 infobar.info > label, infobar.info, infobar.question > label, infobar.question, infobar.warning > label, infobar.warning, infobar.error > label, infobar.error {
@@ -3575,7 +3575,7 @@ colorswatch#add-color-button:only-child {
 }
 
 colorswatch#add-color-button overlay {
-  background-image: linear-gradient(to right, #d42434 25%, #f3ce84 25%, #f3ce84 50%, #5b7a84 50%, #5b7a84 75%, #5b7a84 75%);
+  background-image: linear-gradient(to right, #003d65 25%, #00655b 25%, #00655b 50%, #5b7a84 50%, #5b7a84 75%, #5b7a84 75%);
 }
 
 colorswatch:disabled {
@@ -4348,7 +4348,7 @@ layout {
 }
 
 entry.search-missing {
-  background-color: #d42434;
+  background-color: #003d65;
   color: white;
 }
 
@@ -5881,7 +5881,7 @@ popover.background.places-menu row {
 }
 
 .budgie-panel .alert {
-  color: #d42434;
+  color: #003d65;
 }
 
 .budgie-panel .titlebar:not(headerbar) {
@@ -5994,12 +5994,12 @@ frame.raven-frame > border {
 }
 
 .raven stackswitcher.linked > button {
-  border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), #f3ce84 0%, transparent 0%) 0 0 0/0 0 0px;
+  border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), #00655b 0%, transparent 0%) 0 0 0/0 0 0px;
   border-radius: 0;
 }
 
 .raven stackswitcher.linked > button:checked {
-  border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), #f3ce84 100%, transparent 0%) 0 0 2/0 0 2px;
+  border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), #00655b 100%, transparent 0%) 0 0 2/0 0 2px;
   background-color: transparent;
 }
 
@@ -6170,7 +6170,7 @@ calendar.raven-calendar:selected {
 }
 
 .budgie-polkit-dialog .failure {
-  color: #d42434;
+  color: #003d65;
 }
 
 .budgie-run-dialog {
@@ -6453,9 +6453,9 @@ widgets main borders color on backdrop windows */
 @define-color unfocused_borders rgba(0, 0, 0, 0.26);
 /*
 these are pretty self explicative */
-@define-color warning_color #f3ce84;
-@define-color error_color #d42434;
-@define-color success_color #4b5617;
+@define-color warning_color #00655b;
+@define-color error_color #003d65;
+@define-color success_color #65000b;
 /*
 these colors are exported for the window manager and shouldn't be used in applications,
 read if you used those and something break with a version upgrade you're on your own... */
