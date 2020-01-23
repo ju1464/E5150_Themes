@@ -1346,7 +1346,7 @@ StScrollView StScrollBar {
 }
 
 .window-list-item-box:active, .window-list-item-box:checked, .window-list-item-box:focus {
-  background-color: rgba(251, 255, 254, 0.3);
+  background-color: #09554c;
   color: #fbfffe;
 }
 
@@ -1646,7 +1646,6 @@ StScrollView StScrollBar {
   border: none;
   box-shadow: 0 14px 14px rgba(0, 0, 0, 0.5), 0 10px 5px rgba(0, 0, 0, 0.44);
   padding: 12px;
-  background-color: rgba(0, 0, 0, 0.3);
   border-radius: 0px;
 }
 
@@ -1696,7 +1695,6 @@ StScrollView StScrollBar {
 
 .desklet-drag-placeholder {
   border: 2px solid #03201c;
-  background-color: rgba(0, 0, 0, 0.3);
   border-radius: 0px;
 }
 
