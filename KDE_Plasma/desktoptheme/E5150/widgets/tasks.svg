@@ -59,51 +59,25 @@
        id="current-color-scheme"
        type="text/css"> 
       .ColorScheme-Text {
-        
+        color:#000fff;
       }
       .ColorScheme-Background {
-        color:#eff0f1;
-      
-      }  
+        color:#ffffff;
+      }
       .ColorScheme-Highlight {
-        color:#3daee9;
-        
-      }
-      .ColorScheme-ButtonFocus {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
+        color:currentColor;
       }
       .ColorScheme-ButtonHover {
-        color:#93cee9;
+        color:#000000;
       }
       .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-Text {
-        
+        color:##000000;
       }
       .ColorScheme-NeutralText {
-        color:#f67400;
+        color:#fff000;
       }
       .ColorScheme-PositiveText {
-        color:#27ae60;
+        color:#fff000;
       }
 </style>
     <linearGradient
@@ -134,7 +108,7 @@
     <rect
        transform="scale(-1)"
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect4945-9-2-4"
        width="2"
        height="13"
@@ -147,7 +121,7 @@
        height="13"
        width="1"
        id="rect4949-9-2-9"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        class="ColorScheme-ButtonFocus" />
     <rect
        transform="scale(-1)"
@@ -164,7 +138,7 @@
      transform="translate(40)">
     <rect
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect4945-8-1"
        width="2"
        height="13"
@@ -176,7 +150,7 @@
        height="13"
        width="1"
        id="rect4949-5-5"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        class="ColorScheme-ButtonFocus" />
     <rect
        style="fill:none;stroke:none"
@@ -189,10 +163,10 @@
   <g
      id="focus-center"
      inkscape:label="#g1528"
-     style="fill:#000000">
+     style="fill:currentColor">
     <rect
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.98130673"
+       style="opacity:0.72;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.98130673"
        id="rect4957-0-5"
        width="26"
        height="13"
@@ -202,11 +176,11 @@
   <g
      id="focus-top"
      transform="matrix(1,0,0,-1,0,51)"
-     style="fill:#000000">
+     style="fill:currentColor">
     <rect
        class="ColorScheme-ButtonFocus"
        transform="scale(1,-1)"
-       style="opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect4997-3-9"
        width="26"
        height="2"
@@ -218,7 +192,7 @@
        height="1"
        width="26"
        id="rect4999-2-9"
-       style="opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        transform="scale(1,-1)"
        class="ColorScheme-ButtonFocus" />
   </g>
@@ -237,7 +211,7 @@
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect5003-5-7-5"
        width="3"
        height="3"
@@ -258,7 +232,7 @@
     <rect
        transform="scale(1,-1)"
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect5003-7-6"
        width="3"
        height="3"
@@ -268,11 +242,11 @@
   <g
      id="focus-bottom"
      inkscape:label="#g1548"
-     style="fill:#000000">
+     style="fill:currentColor">
     <rect
        class="ColorScheme-ButtonFocus"
        transform="scale(-1)"
-       style="color:#3daee9;opacity:0.72;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect4997-2-6-2"
        width="26"
        height="2"
@@ -284,7 +258,7 @@
        height="0.99999988"
        width="26"
        id="rect4999-0-5-7"
-       style="color:#3daee9;opacity:0.72;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72;fill:currentColor;fill-opacity:1;stroke:none"
        transform="scale(-1)"
        class="ColorScheme-ButtonFocus" />
   </g>
@@ -303,7 +277,7 @@
     <rect
        transform="scale(-1,1)"
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect5003-5-6-8-9"
        width="3"
        height="3"
@@ -325,7 +299,7 @@
     <rect
        transform="matrix(0,1,1,0,0,0)"
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect5003-5-6-8-5-7"
        width="3"
        height="3"
@@ -1531,7 +1505,7 @@
      transform="translate(-40)">
     <rect
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9198662"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.9198662"
        id="rect4945-9-2-4-1-8-5"
        width="2"
        height="11"
@@ -1543,16 +1517,16 @@
        height="11"
        width="1"
        id="rect4949-9-2-9-0-6-23"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9198662"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.9198662"
        class="ColorScheme-ButtonFocus" />
   </g>
   <g
      transform="matrix(-1,0,0,-0.84615385,143.00001,47.153846)"
      id="east-focus-left"
-     style="fill:#000000">
+     style="fill:currentColor">
     <rect
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect4945-8-1-3-0-3"
        width="2"
        height="13"
@@ -1564,7 +1538,7 @@
        height="13"
        width="1"
        id="rect4949-5-5-6-8-59"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        class="ColorScheme-ButtonFocus" />
   </g>
   <g
@@ -1574,7 +1548,7 @@
     <rect
        transform="scale(-1)"
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93674242"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.93674242"
        id="rect4957-0-5-7-4-7"
        width="27.999794"
        height="11"
@@ -1596,7 +1570,7 @@
     <rect
        class="ColorScheme-ButtonFocus"
        transform="scale(-1)"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.03774524"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.03774524"
        id="rect4997-3-9-4-2-3"
        width="27.999796"
        height="2"
@@ -1608,7 +1582,7 @@
        height="0.99999988"
        width="27.999796"
        id="rect4999-2-9-0-6-5"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.03774524"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.03774524"
        transform="scale(-1)"
        class="ColorScheme-ButtonFocus" />
   </g>
@@ -1626,7 +1600,7 @@
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect5003-5-7-5-0-9-9"
        width="3"
        height="3"
@@ -1640,7 +1614,7 @@
     <rect
        transform="scale(-1,1)"
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect5003-7-6-8-3-3"
        width="3"
        height="3"
@@ -1661,7 +1635,7 @@
      transform="translate(-40)">
     <rect
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.03774524"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.03774524"
        id="rect4997-2-6-2-7-7-8"
        width="27.999796"
        height="2"
@@ -1673,7 +1647,7 @@
        height="0.99999988"
        width="27.999796"
        id="rect4999-0-5-7-0-9-0"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.03774524"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.03774524"
        class="ColorScheme-ButtonFocus" />
     <rect
        y="152.00002"
@@ -1699,7 +1673,7 @@
     <rect
        transform="scale(1,-1)"
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect5003-5-6-8-9-3-4-9"
        width="2"
        height="2"
@@ -1709,7 +1683,7 @@
        class="ColorScheme-ButtonFocus"
        id="path3643-1-0-7-9"
        d="m 183.00001,26 v -2 -1 h -3 v 1 h 2 v 2 z"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0" />
   </g>
   <g
@@ -1727,7 +1701,7 @@
     <rect
        transform="matrix(0,1,1,0,0,0)"
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect5003-5-6-8-5-7-4-2-2"
        width="2"
        height="2"
@@ -1737,7 +1711,7 @@
        class="ColorScheme-ButtonFocus"
        id="path3643-6-3-5-7-8"
        d="m 180.00001,40 h 2 1 v -3 h -1 v 2 h -2 z"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0" />
   </g>
   <g
@@ -4433,7 +4407,7 @@
     <rect
        transform="scale(-1)"
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect4945-9-2-4-6"
        width="2"
        height="13"
@@ -4446,7 +4420,7 @@
        height="13"
        width="1"
        id="rect4949-9-2-9-7"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        class="ColorScheme-ButtonFocus" />
     <rect
        transform="scale(-1)"
@@ -4463,7 +4437,7 @@
      transform="translate(76,2.3e-6)">
     <rect
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect4945-8-1-5"
        width="2"
        height="13"
@@ -4475,7 +4449,7 @@
        height="13"
        width="1"
        id="rect4949-5-5-62"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        class="ColorScheme-ButtonFocus" />
     <rect
        style="fill:none;stroke:none"
@@ -4489,10 +4463,10 @@
      transform="translate(36,2.3e-6)"
      id="north-focus-center"
      inkscape:label="#g1528"
-     style="fill:#000000">
+     style="fill:currentColor">
     <rect
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.98130673"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.98130673"
        id="rect4957-0-5-2"
        width="26"
        height="13"
@@ -4502,12 +4476,12 @@
   <g
      id="north-focus-top"
      transform="matrix(1,0,0,-1,36,51.000002)"
-     style="fill:#000000"
+     style="fill:currentColor"
      inkscape:label="#focus-top-7">
     <rect
        class="ColorScheme-ButtonFocus"
        transform="scale(1,-1)"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect4997-3-9-0"
        width="26"
        height="2"
@@ -4519,7 +4493,7 @@
        height="1"
        width="26"
        id="rect4999-2-9-9"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        transform="scale(1,-1)"
        class="ColorScheme-ButtonFocus" />
   </g>
@@ -4538,7 +4512,7 @@
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect5003-5-7-5-06"
        width="3"
        height="3"
@@ -4559,7 +4533,7 @@
     <rect
        transform="scale(1,-1)"
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect5003-7-6-18"
        width="3"
        height="3"
@@ -4570,11 +4544,11 @@
      transform="translate(36,2.3e-6)"
      id="north-focus-bottom"
      inkscape:label="#g1548"
-     style="fill:#000000">
+     style="fill:currentColor">
     <rect
        class="ColorScheme-ButtonFocus"
        transform="scale(-1)"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect4997-2-6-2-9"
        width="26"
        height="2"
@@ -4586,7 +4560,7 @@
        height="0.99999988"
        width="26"
        id="rect4999-0-5-7-2"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        transform="scale(-1)"
        class="ColorScheme-ButtonFocus" />
   </g>
@@ -4605,7 +4579,7 @@
     <rect
        transform="scale(-1,1)"
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect5003-5-6-8-9-37"
        width="3"
        height="3"
@@ -4627,7 +4601,7 @@
     <rect
        transform="matrix(0,1,1,0,0,0)"
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect5003-5-6-8-5-7-2"
        width="3"
        height="3"
@@ -4640,7 +4614,7 @@
      inkscape:label="#g1723">
     <rect
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9198662"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.9198662"
        id="rect4945-9-2-4-1-8-5-8"
        width="2"
        height="11"
@@ -4652,17 +4626,17 @@
        height="11"
        width="1"
        id="rect4949-9-2-9-0-6-23-9"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9198662"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.9198662"
        class="ColorScheme-ButtonFocus" />
   </g>
   <g
      transform="matrix(-1,0,0,-0.84615385,107.00003,47.153846)"
      id="west-focus-left"
-     style="fill:#000000"
+     style="fill:currentColor"
      inkscape:label="#east-focus-left-7">
     <rect
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect4945-8-1-3-0-3-3"
        width="2"
        height="13"
@@ -4674,7 +4648,7 @@
        height="13"
        width="1"
        id="rect4949-5-5-6-8-59-6"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        class="ColorScheme-ButtonFocus" />
   </g>
   <g
@@ -4684,7 +4658,7 @@
     <rect
        transform="scale(-1)"
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93674242"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.93674242"
        id="rect4957-0-5-7-4-7-2"
        width="27.999794"
        height="11"
@@ -4706,7 +4680,7 @@
     <rect
        class="ColorScheme-ButtonFocus"
        transform="scale(-1)"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.03774524"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.03774524"
        id="rect4997-3-9-4-2-3-1"
        width="27.999796"
        height="2"
@@ -4718,7 +4692,7 @@
        height="0.99999988"
        width="27.999796"
        id="rect4999-2-9-0-6-5-9"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.03774524"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.03774524"
        transform="scale(-1)"
        class="ColorScheme-ButtonFocus" />
   </g>
@@ -4736,7 +4710,7 @@
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect5003-5-7-5-0-9-9-8"
        width="3"
        height="3"
@@ -4750,7 +4724,7 @@
     <rect
        transform="scale(-1,1)"
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect5003-7-6-8-3-3-5"
        width="3"
        height="3"
@@ -4771,7 +4745,7 @@
      inkscape:label="#g1731">
     <rect
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.03774524"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.03774524"
        id="rect4997-2-6-2-7-7-8-6"
        width="27.999796"
        height="2"
@@ -4783,7 +4757,7 @@
        height="0.99999988"
        width="27.999796"
        id="rect4999-0-5-7-0-9-0-1"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.03774524"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.03774524"
        class="ColorScheme-ButtonFocus" />
     <rect
        y="152.00002"
@@ -4809,7 +4783,7 @@
     <rect
        transform="scale(1,-1)"
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect5003-5-6-8-9-3-4-9-2"
        width="2"
        height="2"
@@ -4819,7 +4793,7 @@
        class="ColorScheme-ButtonFocus"
        id="path3643-1-0-7-9-06"
        d="m 183.00001,26 v -2 -1 h -3 v 1 h 2 v 2 z"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0" />
   </g>
   <g
@@ -4837,7 +4811,7 @@
     <rect
        transform="matrix(0,1,1,0,0,0)"
        class="ColorScheme-ButtonFocus"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        id="rect5003-5-6-8-5-7-4-2-2-5"
        width="2"
        height="2"
@@ -4847,7 +4821,7 @@
        class="ColorScheme-ButtonFocus"
        id="path3643-6-3-5-7-8-4"
        d="m 180.00001,40 h 2 1 v -3 h -1 v 2 h -2 z"
-       style="color:#3daee9;opacity:0.72000002;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.72000002;fill:currentColor;fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0" />
   </g>
   <g

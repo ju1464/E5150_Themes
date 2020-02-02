@@ -22,48 +22,19 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#ffffff;
       }
       .ColorScheme-Background {
-        color:#eff0f1;
-        stop-color:#eff0f1;
+        color:#ffffff;
       }
       .ColorScheme-Highlight {
-        color:#3daee9;
-        stop-color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-        stop-color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-        stop-color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-        stop-color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-        stop-color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-        stop-color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-        stop-color:#eff0f1;
+        color:#000000;
       }
       .ColorScheme-ButtonHover {
-        color:#93cee9;
-        stop-color:#93cee9;
+        color:#000000;
       }
       .ColorScheme-ButtonFocus{
-        color:#3daee9;
-        stop-color:#3daee9;
+        color:#ffffff;
       }
       </style>
   </defs>
