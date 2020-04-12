@@ -1436,11 +1436,10 @@ StScrollView StScrollBar {
 }
 
 .grouped-window-list-thumbnail-menu {
-  padding: 20px;
   border: none;
   border-radius: 0px;
   color: rgba(252, 246, 246, 0.7);
-  background: none;
+  background: #250a0a;
 }
 
 .grouped-window-list-thumbnail-menu .item-box {
