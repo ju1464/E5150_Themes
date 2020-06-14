@@ -9,8 +9,8 @@ window.client.padding.height: 0
 window.handle.width: 2
 
 #Menu geometry
-menu.border.width: 8
-menu.overlap.x: -10
+menu.border.width: 4
+menu.overlap.x: -6
 menu.overlap.y: 0
 
 # Border colors
@@ -86,17 +86,17 @@ window.active.button.toggled.unpressed.image.color: #f6fbfc
 window.active.button.toggled.pressed.bg: Flat solid
 window.active.button.toggled.pressed.bg.color: #061216
 window.active.button.toggled.pressed.bg.border.color: #061216
-window.active.button.toggled.pressed.image.color: #174753
+window.active.button.toggled.pressed.image.color: #2c89a0
 
 window.active.button.toggled.hover.bg: Flat solid
 window.active.button.toggled.hover.bg.color: #061216
 window.active.button.toggled.hover.bg.border.color: #061216
-window.active.button.toggled.hover.image.color: #174753
+window.active.button.toggled.hover.image.color: #2c89a0
 
 window.active.button.hover.bg: Flat solid
 window.active.button.hover.bg.color: #061216
 window.active.button.hover.bg.border.color: #061216
-window.active.button.hover.image.color: #174753
+window.active.button.hover.image.color: #2c89a0
 
 ### Inactive windows ###
 window.inactive.title.bg: Flat solid
