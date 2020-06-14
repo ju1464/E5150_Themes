@@ -3475,11 +3475,12 @@ infobar.info > label, infobar.info, infobar.question > label, infobar.question, 
  * Tooltips *
  ************/
 tooltip {
-  border-radius: 0px;
+  border-radius: 6px;
   box-shadow: none;
 }
 
 tooltip.background {
+  border: 1px solid #175317;
   background-color: rgba(6, 22, 6, 0.9);
   color: #f6fbf6;
 }
