@@ -6206,7 +6206,7 @@ calendar.raven-calendar:selected {
  ***************/
 .xfce4-panel.background {
   border: none;
-  background-color: #000000;
+  background-color: #160900;
   color: rgba(255, 255, 255, 0.7);
   font-weight: 500;
 }
@@ -6223,11 +6223,17 @@ calendar.raven-calendar:selected {
 }
 
 .xfce4-panel.background .tasklist button {
-  border-image: image(transparent) 0 0 2/0 0 2px;
+  background-color: transparent;
+}
+
+.xfce4-panel.background .tasklist button:hover {
+  background-color: rgba(255, 255, 255, 0.12);
+  color: white;
 }
 
 .xfce4-panel.background .tasklist button:checked {
-  border-image: image(transparent) 0 0 2/0 0 2px;
+  background-color: #2a1100;
+  color: white;
 }
 
 .xfce4-panel.background .tasklist button image {
