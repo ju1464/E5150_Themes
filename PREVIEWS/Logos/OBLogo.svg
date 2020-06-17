@@ -12,7 +12,7 @@
    version="1.1"
    id="svg34"
    sodipodi:docname="OBLogo.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata40">
     <rdf:RDF>
@@ -37,16 +37,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="683"
+     inkscape:window-height="711"
      id="namedview36"
-     showgrid="false"
-     inkscape:zoom="2.6240291"
-     inkscape:cx="32"
-     inkscape:cy="32"
+     showgrid="true"
+     inkscape:zoom="8.046875"
+     inkscape:cx="43.463926"
+     inkscape:cy="58.150937"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg34" />
+     inkscape:current-layer="svg34">
+    <inkscape:grid
+       type="xygrid"
+       id="grid842" />
+  </sodipodi:namedview>
   <rect
      width="63.193"
      height="52.422"
@@ -57,19 +61,9 @@
      id="rect2"
      style="fill:#061216;fill-opacity:1" />
   <path
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.68521976;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 49.15625,3.2753906 v 3.7734375 h 3.716797 V 3.2753906 Z m 0.685547,0.6972656 H 52.1875 v 2.3789063 h -2.345703 z"
-     id="rect872"
-     inkscape:connector-curvature="0" />
-  <path
-     d="m 57.49,3.006 -0.603,0.603 1.532,1.537 -1.532,1.538 0.602,0.604 1.532,-1.537 1.532,1.537 0.602,-0.604 -1.532,-1.538 1.532,-1.537 -0.602,-0.603 -1.532,1.538 z"
-     id="path853"
-     style="fill:#ffffff" />
-  <path
-     d="M 3.45,6.859 2.848,6.255 5.408,3.686 7.97,6.256 7.368,6.86 5.408,4.894 Z"
-     id="path851"
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff" />
+     style="fill:#ffffff"
+     d="M 5.4082031 3.6855469 L 2.8476562 6.2558594 L 3.2421875 6.6523438 L 5.4082031 4.4785156 L 7.5742188 6.6523438 L 7.9707031 6.2558594 L 5.4082031 3.6855469 z "
+     id="path851" />
   <path
      fill="#444"
      d="M1.194 9.594h61.662v41.624H1.194z"
@@ -120,9 +114,24 @@
      id="path28"
      d="m 1.194,17.460572 h 15.321125 v 6.903186 H 1.194 Z" />
   <path
-     inkscape:connector-curvature="0"
-     style="color:#bebebe;overflow:visible;fill:#ffffff;stroke-width:0.40000001"
-     d="m 40.989474,4.6905266 h 4 v 0.8 h -4 z"
+     d="M 55.3137,3.216527 57.548586,5.451413 55.3137,7.686299 55.765114,8.137713 58,5.902827 60.234886,8.137713 60.6863,7.686299 58.451414,5.451413 60.6863,3.216527 60.234886,2.765113 58,5 55.765114,2.765113 Z"
+     font-weight="400"
      overflow="visible"
-     id="path2" />
+     style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;fill-rule:evenodd;stroke-width:0.51590168"
+     id="path4"
+     inkscape:connector-curvature="0"
+     inkscape:transform-center-x="22.493204"
+     inkscape:transform-center-y="-2.6097087" />
+  <path
+     d="M 47.390544,2.8341559 V 7.951204 h 5.117048 V 2.8341559 Z m 0.639631,0.6396311 h 3.837786 v 3.837786 h -3.837786 z"
+     style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff;stroke-width:0.54206014"
+     font-weight="400"
+     overflow="visible"
+     id="path4-3"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m 40,7 h 5 v 0.5459051 h -5 z"
+     id="path4-6"
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#ffffff;stroke-width:0.43537384" />
 </svg>
