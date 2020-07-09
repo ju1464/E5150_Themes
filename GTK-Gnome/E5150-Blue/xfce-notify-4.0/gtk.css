@@ -1,8 +1,13 @@
 #XfceNotifyWindow {
-    background-color: #0a2025;
-    border-radius: 4px;
-    border: 1px solid #174753;
-    padding: 4px;
+    background-color: #133a44;
+    border-radius: 6px;
+    border: 1px solid shade(#174753, 0.8);
+    padding: 20px;
+}
+
+#XfceNotifyWindow:hover {
+    background-color: shade(#133a44, 0.98);
+    border-color: shade(#174753, 0.5);
 }
 
 #XfceNotifyWindow label,
@@ -15,29 +20,19 @@
 }
 
 #XfceNotifyWindow button {
-    font-weight: Bold;
-    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    border-style: none;
+    box-shadow: none;
     background-image: none;
-    border-radius: 0px;
-    border-color: transparent;
     background-color: #032d34;
+    color: #f6fbfc;
 }
 
-#XfceNotifyWindow button label,
-#XfceNotifyWindow button image {
-    color: f6fbfc;
-}    
-    
 #XfceNotifyWindow button:hover {
-    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.16), 0 3px 3px rgba(0, 0, 0, 0.23);
+    border-style: none;
+    box-shadow: none;
     background-image: none;
-    background-color: rgba( 255, 255, 255, 0.12);
-}
-
-#XfceNotifyWindow button:active {
-    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.16), 0 3px 3px rgba(0, 0, 0, 0.23);
-    background-image: none;
-    background-color: rgba(255, 255, 255, 0.08);
+    background-color: #174753;
+    color: #ffffff;
 }
 
 #XfceNotifyWindow progressbar {
@@ -52,6 +47,6 @@
 
 #XfceNotifyWindow progressbar trough {
     background-image: none;
-    background-color: #bfbfbf;
+    border: 0px;
     border-radius: 0px;
 }
